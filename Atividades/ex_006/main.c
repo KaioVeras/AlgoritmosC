@@ -1,10 +1,10 @@
 #include <stdio.h>
 
-int main() {
+int main() { 
 	
 	int contador = 0;
 	
-	for(contador = 3300000;contador > 0; contador--) {
+	for(contador = 10;contador > 0; contador--) {
 		printf("Numero: %d\n", contador);
 	}
 	
