@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Calculadora usando if/else
+
 int main() {
     int n1 = 0, n2 = 0;
     char op;
