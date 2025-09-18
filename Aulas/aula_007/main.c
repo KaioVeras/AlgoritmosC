@@ -12,7 +12,7 @@ int main() {
 	printf("Informe um valor para N1: ");
 	scanf("%d", &n1);
 
-	printf("Informe uma operação: ");
+	printf("Informe uma operacao: ");
 	scanf(" %c", &op);
 
 	printf("Informe um valor para N2: ");
@@ -35,7 +35,7 @@ int main() {
 
 		case '/':
 			if(n2 == 0) {
-				printf("Operação Inválida");
+				printf("Operacao Invalida");
 			} else {
 				printf("Resultado: %d", n1 / n2);
 			}
@@ -46,7 +46,7 @@ int main() {
 			break;
 
 		default:
-			printf("Operação Inválida");
+			printf("Operacao Invalida");
 	}
 
 	printf("\n--------------------------------\n");
@@ -56,7 +56,7 @@ int main() {
 
 
 /*
-	Estruturas de decis�o
+	Estruturas de decis�o
 		if
 		if/else
 		switch/case
@@ -71,7 +71,7 @@ int main() {
 			}
 			
 			
-	Estruturas de repeti��o
+	Estruturas de repeti��o
 		for 
 		while
 		do..while
