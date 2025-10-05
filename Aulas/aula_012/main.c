@@ -1,6 +1,6 @@
 /* 
-Elabore um programa onde o usuário informará 5 notas, após receber 
-as notas, as mesmas serão apresentadas na ordem inversa à informada
+Elabore um programa onde o usuario informara 5 notas, apï¿½s receber
+as notas, as mesmas serao apresentadas na ordem inversa a informada
 */
 
 //#include <stdio.h>
@@ -29,7 +29,7 @@ as notas, as mesmas serão apresentadas na ordem inversa à informada
 //	return 0;
 //}
 
-// Vetores - Estrutura de dados composta homogênea
+// Vetores - Estrutura de dados composta homogenea
 
 //#include <stdio.h>
 //#define TAM 5
