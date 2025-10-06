@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 // 1. Entrada e saída
 int main() {
 	char medicamento[30];
