@@ -56,10 +56,19 @@ int main() {
     }
 
     printf("----------------------------\n");
-    printf("Resultado Geral (%d Notas)\n", total_inseridas);
-    printf("Aprovados (>= 7.0): %d\n", aprovadas);
-    printf("Reprovados (< 7.0): %d", reprovadas);
-    printf("\n----------------------------");
+    if (total_inseridas > 1) {
+        printf("Resultado Geral (%d Notas)\n", total_inseridas);
+    } else {
+        printf("Resultado Geral (%d Nota)\n", total_inseridas);
+    }
+
+    if(aprovadas > 0) {
+        printf("Aprovados (>= 7.0): %d\n", aprovadas);
+    }
+    if (reprovadas > 0) {
+        printf("Reprovados (< 7.0): %d\n", reprovadas);
+    }
+    printf("----------------------------");
 
     return 0;
 }
