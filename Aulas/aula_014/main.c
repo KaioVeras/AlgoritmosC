@@ -70,3 +70,18 @@ char le_valida_continuar() {
 	
 	return continuar;
 }
+
+/*
+	Funções
+		Tem retorno
+		
+	Procedimento
+		Nao tem retorno
+		
+		Exemplo
+			void cabecalho() {
+				printf("---------");
+				printf("CADASTRO");
+				printf("---------");
+			}
+*/
