@@ -5,7 +5,7 @@
 */
 
 #include <stdio.h>
-#define TAM 3
+#define TAM 50
 
 void cabecalho();
 
