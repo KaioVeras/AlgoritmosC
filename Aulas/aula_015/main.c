@@ -71,7 +71,7 @@ int main() {
 }
 
 /*
-	# Estruturas de Dados compostas Heterogêneas
+	# Estruturas de Dados compostas Heterogï¿½neas
 	
 		-- Structs --
 		
